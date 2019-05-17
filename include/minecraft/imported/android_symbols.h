@@ -1,4 +1,4 @@
-#pragma once
+ #pragma once
 
 const char* android_symbols[] = {
         "ANativeWindow_setBuffersGeometry",
@@ -42,5 +42,6 @@ const char* android_symbols[] = {
         "AAssetManager_openDir",
         "AAssetDir_getNextFileName",
         "AAssetDir_close",
+        "AAssetManager_fromJava",
         nullptr
 };
