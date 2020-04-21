@@ -44,5 +44,6 @@ static const char* fmod_symbols[] = {
     "_ZN4FMOD6System11getCPUUsageEPfS1_S1_S1_S1_",
     "_ZN4FMOD6System18getChannelsPlayingEPiS1_",
     "_ZN4FMOD6System12getFileUsageEPxS1_S1_",
+    "_ZN4FMOD14ChannelControl15set3DAttributesEPK11FMOD_VECTORS3_",
     nullptr
 };
