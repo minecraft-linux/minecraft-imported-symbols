@@ -1,6 +1,6 @@
  #pragma once
 
-const char* android_symbols[] = {
+static const char* android_symbols[] = {
         "ANativeWindow_setBuffersGeometry",
         "AAssetManager_open",
         "AAsset_getLength",

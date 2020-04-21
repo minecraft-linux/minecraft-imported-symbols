@@ -1,6 +1,6 @@
 #pragma once
 
-const char* fmod_symbols[] = {
+static const char* fmod_symbols[] = {
     "_ZN4FMOD6System12mixerSuspendEv",
     "_ZN4FMOD6System11mixerResumeEv",
     "_ZN4FMOD14ChannelControl7setMuteEb",

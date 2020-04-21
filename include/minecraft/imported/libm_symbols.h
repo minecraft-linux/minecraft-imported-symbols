@@ -1,6 +1,6 @@
 #pragma once
 
-const char* libm_symbols[] = {
+static const char* libm_symbols[] = {
         "acos",
         "acosf",
         "acosh",

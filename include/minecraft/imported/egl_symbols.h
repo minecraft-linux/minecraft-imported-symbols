@@ -1,6 +1,6 @@
 #pragma once
 
-const char* egl_symbols[] = {
+static const char* egl_symbols[] = {
         "eglChooseConfig",
         "eglGetError",
         "eglCreateWindowSurface",

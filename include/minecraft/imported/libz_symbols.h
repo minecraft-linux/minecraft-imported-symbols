@@ -1,6 +1,6 @@
 #pragma once
 
-const char* libz_symbols[] = {
+static const char* libz_symbols[] = {
         "deflate",
         "deflateEnd",
         "deflateInit_",

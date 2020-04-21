@@ -1,6 +1,6 @@
 #pragma once
 
-const char* glesv2_symbols[] = {
+static const char* glesv2_symbols[] = {
         "glActiveTexture",
         "glAttachShader",
         "glBindAttribLocation",
