@@ -224,5 +224,6 @@ static const char* libm_symbols[] = {
         "yn",
         "ynf",
         "isnan",
+        "isinf",
         nullptr
 };
