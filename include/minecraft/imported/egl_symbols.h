@@ -1,6 +1,7 @@
 #pragma once
 
 static const char* egl_symbols[] = {
+        "eglGetCurrentDisplay",
         "eglChooseConfig",
         "eglGetError",
         "eglCreateWindowSurface",

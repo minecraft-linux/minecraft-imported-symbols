@@ -47,5 +47,9 @@ static const char* fmod_symbols[] = {
     "_ZN4FMOD14ChannelControl15set3DAttributesEPK11FMOD_VECTORS3_",
     "_ZN4FMOD6System11setUserDataEPv",
     "_ZN4FMOD6System11setCallbackEPF11FMOD_RESULTP11FMOD_SYSTEMjPvS4_S4_Ej",
+    "_ZN4FMOD14ChannelControl9getVolumeEPf",
+    "_ZN4FMOD14ChannelControl8getPitchEPf",
+    "_ZN4FMOD14ChannelControl7getMuteEPb",
+    "_ZN4FMOD14ChannelControl7getModeEPj",
     nullptr
 };
