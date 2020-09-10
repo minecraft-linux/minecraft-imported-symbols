@@ -51,5 +51,6 @@ static const char* fmod_symbols[] = {
     "_ZN4FMOD14ChannelControl8getPitchEPf",
     "_ZN4FMOD14ChannelControl7getMuteEPb",
     "_ZN4FMOD14ChannelControl7getModeEPj",
+    "_ZN4FMOD7Channel11setPriorityEi",
     nullptr
 };
