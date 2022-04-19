@@ -1,7 +1,10 @@
  #pragma once
 
 static const char* android_symbols[] = {
+        "ANativeWindow_getWidth",
+        "ANativeWindow_getHeight",
         "ANativeWindow_setBuffersGeometry",
+        "mallinfo",
         "AAssetManager_open",
         "AAsset_getLength",
         "AAsset_getBuffer",
