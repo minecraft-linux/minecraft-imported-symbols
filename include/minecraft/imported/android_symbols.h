@@ -45,5 +45,8 @@ static const char* android_symbols[] = {
         "AAssetDir_getNextFileName",
         "AAssetDir_close",
         "AAssetManager_fromJava",
+        "gettid",
+        "sched_get_priority_min",
+        "sched_get_priority_max",
         nullptr
 };
