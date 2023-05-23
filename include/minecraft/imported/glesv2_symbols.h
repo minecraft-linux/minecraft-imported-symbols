@@ -166,5 +166,8 @@ static const char* glesv2_symbols[] = {
         "glFogx",
         "glFogf",
         "glMultMatrixf",
+        "glVertexAttribDivisorEXT",
+        "glDrawArraysInstancedEXT",
+        "glDrawElementsInstancedEXT",
         nullptr
 };
