@@ -121,6 +121,7 @@ static const char* libm_symbols[] = {
         "lgammal",
         "lgammal_r",
         "lgamma_r",
+        "lldiv",
         "llrint",
         "llrintf",
         "llrintl",
